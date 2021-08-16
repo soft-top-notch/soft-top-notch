@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align="center">👋  **Senior Full-Stack | Blockchain | Data Engineer** 👋</h2>
 <p align="center">
   <a href="https://github.com/soft-top-notch">
