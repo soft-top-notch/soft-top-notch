@@ -1,1 +1,1 @@
-<h2 align="center">👋  **Senior Full-Stack | Blockchain | Data Engineer** 👋</h2>
+<h2 align="center">👋  **Senior Full-Stack & Data Engineer** 👋</h2>
